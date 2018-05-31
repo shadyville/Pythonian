@@ -16,4 +16,7 @@ There are 4 other formulas (a, b, c, d) that all use the components "att, comp, 
   
 Test
 
- The pytest was done using Aaron Rodger's regular seasons stats from 2005-2009.  
+The pytest was done using Aaron Rodger's regular seasons stats from 2005-2009. Test has proven to be successful as it has accurately calculated the correct passer rating for each of the experminented seasons. 
+
+The program is a success and can be used for thorough data analayis, incuding but not limited to; the max, min, highest rated QBs, QB comparison, etc..
+ 
